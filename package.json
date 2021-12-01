@@ -1,0 +1,18 @@
+{
+  "name": "unfollow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unfollow-users.example.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "instagram-private-api": "^1.45.2",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx tsc unfollow-users.example.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
